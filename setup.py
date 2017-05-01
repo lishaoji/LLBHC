@@ -15,13 +15,3 @@ setup(name='LLBHC',
       packages=['LLBHC'],
       zip_safe=False)
 
-
-# In[1]:
-
-get_ipython().system('jupyter nbconvert --to script setup.ipynb')
-
-
-# In[ ]:
-
-
-
