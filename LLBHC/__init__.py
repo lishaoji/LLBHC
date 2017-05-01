@@ -43,8 +43,6 @@ class node():
 
 # In[3]:
 
-@jit(float64(float64[:,:], int64[:]))
-
 def p_hyp1(dataset, a):
     """
     Function to calculate the posterior probability.
