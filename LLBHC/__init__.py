@@ -219,12 +219,3 @@ def bhc(data, a=1, r_thres=0.5):
 
 
 
-# In[6]:
-
-get_ipython().system('jupyter nbconvert --to script __init__.ipynb')
-
-
-# In[ ]:
-
-
-
